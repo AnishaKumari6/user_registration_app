@@ -1,1 +1,1 @@
-# user-registration-app
+# user_registration_app
